@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm JasperHv 👋
 
-<!--
-**JasperHv/JasperHv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Bachelor Computer Science student at the VU Amsterdam, aspiring to become a software engineer. My journey so far has given me hands-on experience with Python, C++, C, and Java — I'm currently diving deeper into Java to further expand my skills.
 
-Here are some ideas to get you started:
+## 🚀 Projects I'm Proud Of
+- **[AncientEgyptians](https://github.com/JasperHv/AncientEgyptians)**: My public project exploring java.
+- **[IJVM Emulator](https://github.com/JasperHv/CoPP)**: Built my own emulator for the IJVM instruction set as part of my bachelor program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python | C++ | C | Java
+
+## 🎯 About Me
+- Always eager to learn and improve myself
+- Enjoy going to the gym and listening to music
+- Passionate about building, experimenting, and growing as a developer
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jasper-van-heusden/)
+
+---
+
+Thanks for stopping by! Feel free to check out my projects or connect with me.
