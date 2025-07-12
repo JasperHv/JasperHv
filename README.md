@@ -14,9 +14,6 @@ I'm a second-year Bachelor Computer Science student at the VU Amsterdam, aspirin
 - Enjoy going to the gym and listening to music
 - Passionate about building, experimenting, and growing as a developer
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jasper-van-heusden/)
-
----
+## 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/jasper-van-heusden/)
 
 Thanks for stopping by! Feel free to check out my projects or connect with me.
