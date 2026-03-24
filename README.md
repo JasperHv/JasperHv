@@ -1,6 +1,6 @@
-# Hi, I'm JasperHv 👋
+# Hi, I'm Jasper 👋
 
-I'm a second-year Bachelor Computer Science student at the VU Amsterdam, aspiring to become a software engineer. My journey so far has given me hands-on experience with Python, C++, C, and Java — I'm currently diving deeper into Java to further expand my skills.
+I'm a third-year Bachelor Computer Science student at the VU Amsterdam, aspiring to become a software engineer. My journey so far has given me hands-on experience with Python, C++, C, and Java — I'm currently diving deeper into Java to further expand my skills.
 
 ## 🚀 Projects I'm Proud Of
 - **[AncientEgyptians](https://github.com/JasperHv/AncientEgyptians)**: My public project exploring java.
@@ -16,4 +16,4 @@ I'm a second-year Bachelor Computer Science student at the VU Amsterdam, aspirin
 
 ## 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/jasper-van-heusden/)
 
-Thanks for stopping by! Feel free to check out my projects or connect with me.
+Feel free to connect with me.
